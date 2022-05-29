@@ -7,7 +7,7 @@ description: "As a woman I have no country"
 keyword: "Feminist, Cat, Aromantic, English, 日本語"
 url: "https://nofishme.github.io" 
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/nofishme/klovien.github.io.git" # you code repository
+github_repo: "https://github.com/Nofishme/nofishme/klovien.github.io" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
